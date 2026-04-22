@@ -10,3 +10,4 @@ def read_root():
 @app.get("/name")
 def read_root1():
     return {"message": "This is mithra!"}
+
